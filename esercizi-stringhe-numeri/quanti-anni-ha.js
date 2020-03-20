@@ -11,3 +11,12 @@
 
   http://www.imparareaprogrammare.it
 */
+var anno = 2020;
+var nascita = 1992;
+
+var eta = anno - nascita ;
+
+console.log(eta);
+
+var mancanti = 100 - eta;
+console.log(mancanti);
